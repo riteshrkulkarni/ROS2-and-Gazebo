@@ -10,7 +10,7 @@ This repository contains a ROS2 package for simulating an ArduPilot Iris drone i
 1. Install and setup in Virtual box or dual boot. </br>
 https://ubuntu.com/download/desktop </br>
 
-# ROS-Humble 
+# ROS2-Humble 
 1. Referred from https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debians.html </br>
 2. Steps to install and setup </br>
   i) set locale </br>
