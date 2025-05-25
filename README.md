@@ -96,6 +96,11 @@ Set up your environment by sourcing the following file </br>
 ```
 
 # Gazebo Garden
+Referred from the below link </br>
+https://classic.gazebosim.org/download
+```
+sudo apt install ros-humble-gazebo-ros-humble-ros-pkgs
+```
 
 
 
